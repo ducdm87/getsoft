@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+http://s2.macupdate.com/util/iconlg/39973.png
+
+GET /util/iconlg/39973.png HTTP/1.1
+Host: s2.macupdate.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:6.0) Gecko/20100101 Firefox/6.0
+Connection: Close
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.2.10
+Accept-Ranges: bytes
+Expires: Thur, 27 Aug 2020 05:00:00 GMT
+Content-type: image/png
+Content-Transfer-Encoding: binary
+Etag: "131411079028639"
+Content-Length: 28639
+Connection: close
+Date: Wed, 28 Dec 2011 02:33:43 GMT
+Server: lighttpd/1.4.28
+
+------ Transferred 29kb in 1.6 sec ------
+------ Transferred 43kb in 4.8 sec ------
