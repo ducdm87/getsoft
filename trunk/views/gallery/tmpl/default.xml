@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Gallery page">
+		<message>
+			<![CDATA[Gallery page, you can choose which category to be displayed]]>
+		</message>
+	</layout>
+	<state>
+		<name>Gallery page</name>
+		<description><![CDATA[ ]]></description>
+		<params>			
+			<param name="category" type="category" default="1" label="category" description="category" section="com_get_soft" />
+		</params>
+	</state>
+</metadata>
